@@ -1,9 +1,7 @@
 use std::ops;
 
 fn main() {
-    let b = 4;
-    let c = 3;
-    let d = tollefunktion(b, c);
+    let d = tollefunktion(4, 3);
     println!("{:?}", d);
 }
 
